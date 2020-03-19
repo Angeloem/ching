@@ -1,0 +1,7 @@
+{
+  "name": "ching",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
